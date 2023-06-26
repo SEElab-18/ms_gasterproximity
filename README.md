@@ -1,1 +1,1 @@
-Data and code for: White (2023) Deceptive pollinator lures benefit from physical and perceptual proximity to flowers.
+Data and code for: White TE (in review) Deceptive pollinator lures benefit from physical and perceptual proximity to flowers.
